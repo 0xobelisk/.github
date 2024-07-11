@@ -1,4 +1,4 @@
-## 👋 Hi there! Welcome to RoochNetwork's developer community. We're so glad you stopped by!
+## 👋 Hi there! Welcome to Obelisk Engine's developer community. We're so glad you stopped by!
 
 Obelisk Labs - Modular Network Frontier Lab
 
