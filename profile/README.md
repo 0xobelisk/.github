@@ -10,16 +10,16 @@ Obelisk Engine is a modular application production engine that can operate withi
 
 📫 You can reach us through Website, Github, Discord, Twitter We'd love to hear from you!
 
-* website: [https://obelisk.build/)
-* Telegram: [https://t.me/obeliskengine)
-* Discord: [https://discord.gg/gUPKxzKF)
-* Twitter: [https://x.com/0xObeliskLabs)
+* [Website](https://obelisk.build)
+* [Telegram](https://t.me/obeliskengine)
+* [Discord](https://discord.gg/nveFk3p6za)
+* [Twitter](https://x.com/0xObeliskLabs)
 
 ## Repositories
 
-* [Poils](https://github.com/0xobelisk/obelisk-engine) Polis is a modular application development engine composed of a series of toolchains and libraries.
-* [Alkaid](https://github.com/0xobelisk/Alkaid) Alkaid is a modular blockchain game rendering engine with built-in cryptographic libraries and Polis SDK integration.
-* [Dubhe](https://github.com/0xobelisk/Dubhe) Dubhe is a modular network rollup framework based on verifiable fully homomorphic encryption (V-FHE), integrating ZK and FHE technologies.
+* [poils](https://github.com/0xobelisk/obelisk-engine) is a modular application development engine composed of a series of toolchains and libraries.
+* [alkaid](https://github.com/0xobelisk/alkaid) is a modular blockchain game rendering engine with built-in cryptographic libraries and Polis SDK integration.
+* [dubhe](https://github.com/0xobelisk/dubhe) is a modular network rollup framework based on verifiable fully homomorphic encryption (V-FHE), integrating ZK and FHE technologies.
 ## Links
 
 * [Obelisk Website](https://obelisk.build/) The official documentation site for the Obelisk Engine, for learning how to develop.
