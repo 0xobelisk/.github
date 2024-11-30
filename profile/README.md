@@ -1,8 +1,6 @@
-## 👋 Hi there! Welcome to Obelisk Engine's developer community.
+## 👋 Hi there! Welcome to meet Obelisk labs.
 
 Obelisk Labs - Modular Network Frontier Lab
-
-Obelisk Engine is a modular application production engine that can operate within any modular network ecosystem.
 
 🚀 We're a team of passionate developers who love to build awesome things with code. Our focus is on creating high-quality, scalable Web3 infrastructure that solves real-world problems by the blockchain technology.
 
@@ -17,9 +15,9 @@ Obelisk Engine is a modular application production engine that can operate withi
 
 ## Repositories
 
-* [poils](https://github.com/0xobelisk/obelisk-engine) is a modular application development engine composed of a series of toolchains and libraries.
-* [alkaid](https://github.com/0xobelisk/alkaid) is a modular blockchain game rendering engine with built-in cryptographic libraries and Polis SDK integration.
-* [dubhe](https://github.com/0xobelisk/dubhe) is a modular network rollup framework based on verifiable fully homomorphic encryption (V-FHE), integrating ZK and FHE technologies.
+* [dubhe](https://github.com/0xobelisk/dubhe) is a modular move application creation engine composed of a series of toolchains and libraries.
+* [merak](https://github.com/0xobelisk/merak) is a privacy-preserving DeFi liquidity hub built on dubhe engine.
+* [phad](https://github.com/0xobelisk/phad) is a privacy-first framework for building confidential Move applications with ZK and FHE technologies by cyferio sdk.
 ## Links
 
 * [Obelisk Website](https://obelisk.build/) The official documentation site for the Obelisk Engine, for learning how to develop.
